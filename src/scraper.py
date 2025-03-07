@@ -1,55 +1,62 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import time
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
 
-BASE_URL = "https://awardsdatabase.oscars.org/"
-driver = webdriver.Chrome()
+def scrape_best_picture():
+    """Scrapes Best Picture nominees and winners from Wikipedia"""
+    url = "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-try:
-    driver.get(BASE_URL)
+    tables = soup.find_all('table', {'class': 'wikitable'})
     
-    # Wait until the search form is present
-    WebDriverWait(driver, 15).until(
-        EC.presence_of_element_located((By.ID, "searchForm"))
-    )
+    all_data = []
     
-    # Wait until the Award Category select element is present (even if hidden)
-    award_category_element = WebDriverWait(driver, 15).until(
-        EC.presence_of_element_located((By.ID, "BasicSearchView_AwardCategory"))
-    )
+    for table in tables:
+        headers = [th.get_text(strip=True) for th in table.find_all('th')]
+        if "Year of Film Release" not in headers:
+            continue
+
+        current_year = None
+
+        for row in table.find_all('tr'):
+            year_th = row.find('th', {'rowspan': True})
+            if year_th:
+                # Grab the raw year text (e.g., "1927/28 (1st)" or "1927/28[1]")
+                year_text = year_th.get_text(strip=True)
+                # Remove any bracketed references or parentheses
+                year_text = year_text.split('[')[0].split('(')[0].strip()
+
+                if '/' in year_text:
+                    # Example: "1927/28" → split('/')[-1] = "28"
+                    second_half = year_text.split('/')[-1]
+                    year_text = '19' + second_half  # "1928"
+
+                current_year = year_text
+
+            tds = row.find_all('td')
+            if len(tds) >= 2:
+                # Winner detection (old highlight style in Wikipedia)
+                is_winner = 'background:#FAEB86' in row.get('style', '')
+
+                film = tds[0].get_text(strip=True)
+                film = film.split('[')[0].strip()
+
+                all_data.append({
+                    'Year': current_year,
+                    'Film': film,
+                    'Winner': is_winner
+                })
+
+    df = pd.DataFrame(all_data)
+
+    # Convert 'Year' to integer
+    df['Year'] = df['Year'].astype(int)
     
-    # List of desired values to select
-    desired_values = ['1', '3', '10', '19']
-    
-    # Use JavaScript to iterate over options and mark the desired ones as selected
-    driver.execute_script("""
-        var select = arguments[0];
-        var values = arguments[1];
-        for (var i = 0; i < select.options.length; i++) {
-            if (values.indexOf(select.options[i].value) > -1) {
-                select.options[i].selected = true;
-            }
-        }
-        // Trigger the change event so that any listeners update accordingly
-        select.dispatchEvent(new Event('change'));
-    """, award_category_element, desired_values)
-    
-    # Wait for the search button to be clickable and click it
-    search_button = WebDriverWait(driver, 15).until(
-        EC.element_to_be_clickable((By.ID, "btnbasicsearch"))
-    )
-    search_button.click()
-    
-    # Wait for the results page to load
-    time.sleep(3)
-    
-    # Scroll to the bottom of the page
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    
-    # Optional: wait a bit to observe the scrolled page
-    time.sleep(3)
-    
-finally:
-    driver.quit()
+    # Write to CSV (optional)
+    df.to_csv('best_picture.csv', index=False)
+    return df
+
+if __name__ == "__main__":
+    best_picture_data = scrape_best_picture()
+    print(best_picture_data)

@@ -1,0 +1,612 @@
+Year,Film,Winner
+1928,Wings,True
+1928,7th Heaven,False
+1928,The Racket,False
+1929,The Broadway Melody,True
+1929,Alibi,False
+1929,The Hollywood Revue,False
+1929,In Old Arizona,False
+1929,The Patriot,False
+1930,All Quiet on the Western Front,True
+1930,The Big House,False
+1930,Disraeli,False
+1930,The Divorcee,False
+1930,The Love Parade,False
+1931,Cimarron,True
+1931,East Lynne,False
+1931,The Front Page,False
+1931,Skippy,False
+1931,Trader Horn,False
+1932,Grand Hotel,True
+1932,Arrowsmith,False
+1932,Bad Girl,False
+1932,The Champ,False
+1932,Five Star Final,False
+1932,One Hour with You,False
+1932,Shanghai Express,False
+1932,The Smiling Lieutenant,False
+1933,Cavalcade,True
+1933,42nd Street,False
+1933,A Farewell to Arms,False
+1933,I Am a Fugitive from a Chain Gang,False
+1933,Lady for a Day,False
+1933,Little Women,False
+1933,The Private Life of Henry VIII,False
+1933,She Done Him Wrong,False
+1933,Smilin' Through,False
+1933,State Fair,False
+1934,It Happened One Night,True
+1934,The Barretts of Wimpole Street,False
+1934,Cleopatra,False
+1934,Flirtation Walk,False
+1934,The Gay Divorcee,False
+1934,Here Comes the Navy,False
+1934,The House of Rothschild,False
+1934,Imitation of Life,False
+1934,One Night of Love,False
+1934,The Thin Man,False
+1934,Viva Villa!,False
+1934,The White Parade,False
+1935,Mutiny on the Bounty,True
+1935,Alice Adams,False
+1935,Broadway Melody of 1936,False
+1935,Captain Blood,False
+1935,David Copperfield,False
+1935,The Informer,False
+1935,The Lives of a Bengal Lancer,False
+1935,A Midsummer Night's Dream,False
+1935,Les Misérables,False
+1935,Naughty Marietta,False
+1935,Ruggles of Red Gap,False
+1935,Top Hat,False
+1936,The Great Ziegfeld,True
+1936,Anthony Adverse,False
+1936,Dodsworth,False
+1936,Libeled Lady,False
+1936,Mr. Deeds Goes to Town,False
+1936,Romeo and Juliet,False
+1936,San Francisco,False
+1936,The Story of Louis Pasteur,False
+1936,A Tale of Two Cities,False
+1936,Three Smart Girls,False
+1937,The Life of Emile Zola,True
+1937,The Awful Truth,False
+1937,Captains Courageous,False
+1937,Dead End,False
+1937,The Good Earth,False
+1937,In Old Chicago,False
+1937,Lost Horizon,False
+1937,One Hundred Men and a Girl,False
+1937,Stage Door,False
+1937,A Star Is Born,False
+1938,You Can't Take It with You,True
+1938,The Adventures of Robin Hood,False
+1938,Alexander's Ragtime Band,False
+1938,Boys Town,False
+1938,The Citadel,False
+1938,Four Daughters,False
+1938,Grand Illusion,False
+1938,Jezebel,False
+1938,Pygmalion,False
+1938,Test Pilot,False
+1939,Gone with the Wind,True
+1939,Dark Victory,False
+1939,"Goodbye, Mr. Chips",False
+1939,Love Affair,False
+1939,Mr. Smith Goes to Washington,False
+1939,Ninotchka,False
+1939,Of Mice and Men,False
+1939,Stagecoach,False
+1939,The Wizard of Oz,False
+1939,Wuthering Heights,False
+1940,Rebecca,True
+1940,"All This, and Heaven Too",False
+1940,Foreign Correspondent,False
+1940,The Grapes of Wrath,False
+1940,The Great Dictator,False
+1940,Kitty Foyle,False
+1940,The Letter,False
+1940,The Long Voyage Home,False
+1940,Our Town,False
+1940,The Philadelphia Story,False
+1941,How Green Was My Valley,True
+1941,Blossoms in the Dust,False
+1941,Citizen Kane,False
+1941,Here Comes Mr. Jordan,False
+1941,Hold Back the Dawn,False
+1941,The Little Foxes,False
+1941,The Maltese Falcon,False
+1941,One Foot in Heaven,False
+1941,Sergeant York,False
+1941,Suspicion,False
+1942,Mrs. Miniver,True
+1942,49th Parallel,False
+1942,Kings Row,False
+1942,The Magnificent Ambersons,False
+1942,The Pied Piper,False
+1942,The Pride of the Yankees,False
+1942,Random Harvest,False
+1942,The Talk of the Town,False
+1942,Wake Island,False
+1942,Yankee Doodle Dandy,False
+1943,Casablanca,True
+1943,For Whom the Bell Tolls,False
+1943,Heaven Can Wait,False
+1943,The Human Comedy,False
+1943,In Which We Serve,False
+1943,Madame Curie,False
+1943,The More the Merrier,False
+1943,The Ox-Bow Incident,False
+1943,The Song of Bernadette,False
+1943,Watch on the Rhine,False
+1944,Going My Way,True
+1944,Double Indemnity,False
+1944,Gaslight,False
+1944,Since You Went Away,False
+1944,Wilson,False
+1945,The Lost Weekend,True
+1945,Anchors Aweigh,False
+1945,The Bells of St. Mary's,False
+1945,Mildred Pierce,False
+1945,Spellbound,False
+1946,The Best Years of Our Lives,True
+1946,Henry V,False
+1946,It's a Wonderful Life,False
+1946,The Razor's Edge,False
+1946,The Yearling,False
+1947,Gentleman's Agreement,True
+1947,The Bishop's Wife,False
+1947,Crossfire,False
+1947,Great Expectations,False
+1947,Miracle on 34th Street,False
+1948,Hamlet,True
+1948,Johnny Belinda,False
+1948,The Red Shoes,False
+1948,The Snake Pit,False
+1948,The Treasure of the Sierra Madre,False
+1949,All the King's Men,True
+1949,Battleground,False
+1949,The Heiress,False
+1949,A Letter to Three Wives,False
+1949,Twelve O'Clock High,False
+1950,All About Eve,True
+1950,Born Yesterday,False
+1950,Father of the Bride,False
+1950,King Solomon's Mines,False
+1950,Sunset Boulevard,False
+1951,An American in Paris,True
+1951,Decision Before Dawn,False
+1951,A Place in the Sun,False
+1951,Quo Vadis,False
+1951,A Streetcar Named Desire,False
+1952,The Greatest Show on Earth,True
+1952,High Noon,False
+1952,Ivanhoe,False
+1952,Moulin Rouge,False
+1952,The Quiet Man,False
+1953,From Here to Eternity,True
+1953,Julius Caesar,False
+1953,The Robe,False
+1953,Roman Holiday,False
+1953,Shane,False
+1954,On the Waterfront,True
+1954,The Caine Mutiny,False
+1954,The Country Girl,False
+1954,Seven Brides for Seven Brothers,False
+1954,Three Coins in the Fountain,False
+1955,Marty,True
+1955,Love Is a Many-Splendored Thing,False
+1955,Mister Roberts,False
+1955,Picnic,False
+1955,The Rose Tattoo,False
+1956,Around the World in 80 Days,True
+1956,Friendly Persuasion,False
+1956,Giant,False
+1956,The King and I,False
+1956,The Ten Commandments,False
+1957,The Bridge on the River Kwai,True
+1957,12 Angry Men,False
+1957,Peyton Place,False
+1957,Sayonara,False
+1957,Witness for the Prosecution,False
+1958,Gigi,True
+1958,Auntie Mame,False
+1958,Cat on a Hot Tin Roof,False
+1958,The Defiant Ones,False
+1958,Separate Tables,False
+1959,Ben-Hur,True
+1959,Anatomy of a Murder,False
+1959,The Diary of Anne Frank,False
+1959,The Nun's Story,False
+1959,Room at the Top,False
+1960,The Apartment,True
+1960,The Alamo,False
+1960,Elmer Gantry,False
+1960,Sons and Lovers,False
+1960,The Sundowners,False
+1961,West Side Story,True
+1961,Fanny,False
+1961,The Guns of Navarone,False
+1961,The Hustler,False
+1961,Judgment at Nuremberg,False
+1962,Lawrence of Arabia,True
+1962,The Longest Day,False
+1962,The Music Man,False
+1962,Mutiny on the Bounty,False
+1962,To Kill a Mockingbird,False
+1963,Tom Jones,True
+1963,America America,False
+1963,Cleopatra,False
+1963,How the West Was Won,False
+1963,Lilies of the Field,False
+1964,My Fair Lady,True
+1964,Becket,False
+1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+1964,Mary Poppins,False
+1964,Zorba the Greek,False
+1965,The Sound of Music,True
+1965,Darling,False
+1965,Doctor Zhivago,False
+1965,Ship of Fools,False
+1965,A Thousand Clowns,False
+1966,A Man for All Seasons,True
+1966,Alfie,False
+1966,"The Russians Are Coming, the Russians Are Coming",False
+1966,The Sand Pebbles,False
+1966,Who's Afraid of Virginia Woolf?,False
+1967,In the Heat of the Night,True
+1967,Bonnie and Clyde,False
+1967,Doctor Dolittle,False
+1967,The Graduate,False
+1967,Guess Who's Coming to Dinner,False
+1968,Oliver!,True
+1968,Funny Girl,False
+1968,The Lion in Winter,False
+1968,"Rachel, Rachel",False
+1968,Romeo and Juliet,False
+1969,Midnight Cowboy,True
+1969,Anne of the Thousand Days,False
+1969,Butch Cassidy and the Sundance Kid,False
+1969,"Hello, Dolly!",False
+1969,Z,False
+1970,Patton,True
+1970,Airport,False
+1970,Five Easy Pieces,False
+1970,Love Story,False
+1970,M*A*S*H,False
+1971,The French Connection,True
+1971,A Clockwork Orange,False
+1971,Fiddler on the Roof,False
+1971,The Last Picture Show,False
+1971,Nicholas and Alexandra,False
+1972,The Godfather,True
+1972,Cabaret,False
+1972,Deliverance,False
+1972,The Emigrants,False
+1972,Sounder,False
+1973,The Sting,True
+1973,American Graffiti,False
+1973,Cries and Whispers,False
+1973,The Exorcist,False
+1973,A Touch of Class,False
+1974,The Godfather Part II,True
+1974,Chinatown,False
+1974,The Conversation,False
+1974,Lenny,False
+1974,The Towering Inferno,False
+1975,One Flew Over the Cuckoo's Nest,True
+1975,Barry Lyndon,False
+1975,Dog Day Afternoon,False
+1975,Jaws,False
+1975,Nashville,False
+1976,Rocky,True
+1976,All the President's Men,False
+1976,Bound for Glory,False
+1976,Network,False
+1976,Taxi Driver,False
+1977,Annie Hall,True
+1977,The Goodbye Girl,False
+1977,Julia,False
+1977,Star Wars,False
+1977,The Turning Point,False
+1978,The Deer Hunter,True
+1978,Coming Home,False
+1978,Heaven Can Wait,False
+1978,Midnight Express,False
+1978,An Unmarried Woman,False
+1979,Kramer vs. Kramer,True
+1979,All That Jazz,False
+1979,Apocalypse Now,False
+1979,Breaking Away,False
+1979,Norma Rae,False
+1980,Ordinary People,True
+1980,Coal Miner's Daughter,False
+1980,The Elephant Man,False
+1980,Raging Bull,False
+1980,Tess,False
+1981,Chariots of Fire,True
+1981,Atlantic City,False
+1981,On Golden Pond,False
+1981,Raiders of the Lost Ark,False
+1981,Reds,False
+1982,Gandhi,True
+1982,E.T. the Extra-Terrestrial,False
+1982,Missing,False
+1982,Tootsie,False
+1982,The Verdict,False
+1983,Terms of Endearment,True
+1983,The Big Chill,False
+1983,The Dresser,False
+1983,The Right Stuff,False
+1983,Tender Mercies,False
+1984,Amadeus,True
+1984,The Killing Fields,False
+1984,A Passage to India,False
+1984,Places in the Heart,False
+1984,A Soldier's Story,False
+1985,Out of Africa,True
+1985,The Color Purple,False
+1985,Kiss of the Spider Woman,False
+1985,Prizzi's Honor,False
+1985,Witness,False
+1986,Platoon,True
+1986,Children of a Lesser God,False
+1986,Hannah and Her Sisters,False
+1986,The Mission,False
+1986,A Room with a View,False
+1987,The Last Emperor,True
+1987,Broadcast News,False
+1987,Fatal Attraction,False
+1987,Hope and Glory,False
+1987,Moonstruck,False
+1988,Rain Man,True
+1988,The Accidental Tourist,False
+1988,Dangerous Liaisons,False
+1988,Mississippi Burning,False
+1988,Working Girl,False
+1989,Driving Miss Daisy,True
+1989,Born on the Fourth of July,False
+1989,Dead Poets Society,False
+1989,Field of Dreams,False
+1989,My Left Foot,False
+1990,Dances with Wolves,True
+1990,Awakenings,False
+1990,Ghost,False
+1990,The Godfather Part III,False
+1990,Goodfellas,False
+1991,The Silence of the Lambs,True
+1991,Beauty and the Beast,False
+1991,Bugsy,False
+1991,JFK,False
+1991,The Prince of Tides,False
+1992,Unforgiven,True
+1992,The Crying Game,False
+1992,A Few Good Men,False
+1992,Howards End,False
+1992,Scent of a Woman,False
+1993,Schindler's List,True
+1993,The Fugitive,False
+1993,In the Name of the Father,False
+1993,The Piano,False
+1993,The Remains of the Day,False
+1994,Forrest Gump,True
+1994,Four Weddings and a Funeral,False
+1994,Pulp Fiction,False
+1994,Quiz Show,False
+1994,The Shawshank Redemption,False
+1995,Braveheart,True
+1995,Apollo 13,False
+1995,Babe,False
+1995,The Postman (Il Postino),False
+1995,Sense and Sensibility,False
+1996,The English Patient,True
+1996,Fargo,False
+1996,Jerry Maguire,False
+1996,Secrets & Lies,False
+1996,Shine,False
+1997,Titanic,True
+1997,As Good as It Gets,False
+1997,The Full Monty,False
+1997,Good Will Hunting,False
+1997,L.A. Confidential,False
+1998,Shakespeare in Love,True
+1998,Elizabeth,False
+1998,Life Is Beautiful,False
+1998,Saving Private Ryan,False
+1998,The Thin Red Line,False
+1999,American Beauty,True
+1999,The Cider House Rules,False
+1999,The Green Mile,False
+1999,The Insider,False
+1999,The Sixth Sense,False
+2000,Gladiator,True
+2000,Chocolat,False
+2000,"Crouching Tiger, Hidden Dragon",False
+2000,Erin Brockovich,False
+2000,Traffic,False
+2001,A Beautiful Mind,True
+2001,Gosford Park,False
+2001,In the Bedroom,False
+2001,The Lord of the Rings: The Fellowship of the Ring,False
+2001,Moulin Rouge!,False
+2002,Chicago,True
+2002,Gangs of New York,False
+2002,The Hours,False
+2002,The Lord of the Rings: The Two Towers,False
+2002,The Pianist,False
+2003,The Lord of the Rings: The Return of the King,True
+2003,Lost in Translation,False
+2003,Master and Commander: The Far Side of the World,False
+2003,Mystic River,False
+2003,Seabiscuit,False
+2004,Million Dollar Baby,True
+2004,The Aviator,False
+2004,Finding Neverland,False
+2004,Ray,False
+2004,Sideways,False
+2005,Crash,True
+2005,Brokeback Mountain,False
+2005,Capote,False
+2005,"Good Night, and Good Luck",False
+2005,Munich,False
+2006,The Departed,True
+2006,Babel,False
+2006,Letters from Iwo Jima,False
+2006,Little Miss Sunshine,False
+2006,The Queen,False
+2007,No Country for Old Men,True
+2007,Atonement,False
+2007,Juno,False
+2007,Michael Clayton,False
+2007,There Will Be Blood,False
+2008,Slumdog Millionaire,True
+2008,The Curious Case of Benjamin Button,False
+2008,Frost/Nixon,False
+2008,Milk,False
+2008,The Reader,False
+2009,The Hurt Locker,True
+2009,Avatar,False
+2009,The Blind Side,False
+2009,District 9,False
+2009,An Education,False
+2009,Inglourious Basterds,False
+2009,"Precious: Based on the Novel ""Push"" by Sapphire",False
+2009,A Serious Man,False
+2009,Up,False
+2009,Up in the Air,False
+2010,The King's Speech,True
+2010,Black Swan,False
+2010,The Fighter,False
+2010,Inception,False
+2010,The Kids Are All Right,False
+2010,127 Hours,False
+2010,The Social Network,False
+2010,Toy Story 3,False
+2010,True Grit,False
+2010,Winter's Bone,False
+2011,The Artist,True
+2011,The Descendants,False
+2011,Extremely Loud & Incredibly Close,False
+2011,The Help,False
+2011,Hugo,False
+2011,Midnight in Paris,False
+2011,Moneyball,False
+2011,The Tree of Life,False
+2011,War Horse,False
+2012,Argo,True
+2012,Amour,False
+2012,Beasts of the Southern Wild,False
+2012,Django Unchained,False
+2012,Life of Pi,False
+2012,Lincoln,False
+2012,Les Misérables,False
+2012,Silver Linings Playbook,False
+2012,Zero Dark Thirty,False
+2013,12 Years a Slave,True
+2013,American Hustle,False
+2013,Captain Phillips,False
+2013,Dallas Buyers Club,False
+2013,Gravity,False
+2013,Her,False
+2013,Nebraska,False
+2013,Philomena,False
+2013,The Wolf of Wall Street,False
+2014,Birdman or (The Unexpected Virtue of Ignorance),True
+2014,American Sniper,False
+2014,Boyhood,False
+2014,The Grand Budapest Hotel,False
+2014,The Imitation Game,False
+2014,Selma,False
+2014,The Theory of Everything,False
+2014,Whiplash,False
+2015,Spotlight,True
+2015,The Big Short,False
+2015,Bridge of Spies,False
+2015,Brooklyn,False
+2015,Mad Max: Fury Road,False
+2015,The Martian,False
+2015,The Revenant,False
+2015,Room,False
+2016,Moonlight,True
+2016,Arrival,False
+2016,Fences,False
+2016,Hacksaw Ridge,False
+2016,Hell or High Water,False
+2016,Hidden Figures,False
+2016,La La Land,False
+2016,Lion,False
+2016,Manchester by the Sea,False
+2017,The Shape of Water,True
+2017,Call Me by Your Name,False
+2017,Darkest Hour,False
+2017,Dunkirk,False
+2017,Get Out,False
+2017,Lady Bird,False
+2017,Phantom Thread,False
+2017,The Post,False
+2017,"Three Billboards Outside Ebbing, Missouri",False
+2018,Green Book,True
+2018,Black Panther,False
+2018,BlacKkKlansman,False
+2018,Bohemian Rhapsody,False
+2018,The Favourite,False
+2018,Roma,False
+2018,A Star Is Born,False
+2018,Vice,False
+2019,Parasite,True
+2019,Ford v Ferrari,False
+2019,The Irishman,False
+2019,Jojo Rabbit,False
+2019,Joker,False
+2019,Little Women,False
+2019,Marriage Story,False
+2019,1917,False
+2019,Once Upon a Time in Hollywood,False
+2020,Nomadland,True
+2020,The Father,False
+2020,Judas and the Black Messiah,False
+2020,Mank,False
+2020,Minari,False
+2020,Promising Young Woman,False
+2020,Sound of Metal,False
+2020,The Trial of the Chicago 7,False
+2021,CODA,True
+2021,Belfast,False
+2021,Don't Look Up,False
+2021,Drive My Car,False
+2021,Dune,False
+2021,King Richard,False
+2021,Licorice Pizza,False
+2021,Nightmare Alley,False
+2021,The Power of the Dog,False
+2021,West Side Story,False
+2022,Everything Everywhere All at Once,True
+2022,All Quiet on the Western Front,False
+2022,Avatar: The Way of Water,False
+2022,The Banshees of Inisherin,False
+2022,Elvis,False
+2022,The Fabelmans,False
+2022,Tár,False
+2022,Top Gun: Maverick,False
+2022,Triangle of Sadness,False
+2022,Women Talking,False
+2023,Oppenheimer,True
+2023,American Fiction,False
+2023,Anatomy of a Fall,False
+2023,Barbie,False
+2023,The Holdovers,False
+2023,Killers of the Flower Moon,False
+2023,Maestro,False
+2023,Past Lives,False
+2023,Poor Things,False
+2023,The Zone of Interest,False
+2024,Anora,True
+2024,The Brutalist,False
+2024,A Complete Unknown,False
+2024,Conclave,False
+2024,Dune: Part Two,False
+2024,Emilia Pérez,False
+2024,I'm Still Here,False
+2024,Nickel Boys,False
+2024,The Substance,False
+2024,Wicked,False
