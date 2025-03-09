@@ -163,16 +163,5 @@ best_actor_df.to_csv(os.path.join(DATA_DIR, 'BestActors.csv'), index=False)
 best_actress_df.to_csv(os.path.join(DATA_DIR, 'BestActresses.csv'), index=False)
 best_director_df.to_csv(os.path.join(DATA_DIR, 'BestDirectors.csv'), index=False)
 
-# print(f'CWD: {CURRENT_DIR}')
-# print(f'DATA_DIR: {DATA_DIR}')
-
-# # print("Best Actor Data:")
-# # print(best_actor_df.info())
-# # print("\nBest Actress Data:")
-# # print(best_actress_df.info())
-# print("\nBest Director Data:")
-# print(best_director_df)
-# print("\nBest Director info:")
-# print(best_director_df.info())
 
 
