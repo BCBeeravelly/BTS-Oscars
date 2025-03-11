@@ -1,480 +1,485 @@
-Year,Director,Film,Winner
-1927/28,Frank Borzage,7th Heaven,True
-1927/28,Herbert Brenon,Sorrell and Son,False
-1927/28,King Vidor,The Crowd,False
-1927/28,Lewis Milestone,Two Arabian Knights,True
-1927/28,Ted Wilde,Speedy,False
-1927/28,Charlie Chaplin,The Circus,False
-1928/29,Frank Lloyd,The Divine Lady,True
-1928/29,Lionel Barrymore,Madame X,False
-1928/29,Harry Beaumont,The Broadway Melody,False
-1928/29,Irving Cummings,In Old Arizona,False
-1928/29,Frank Lloyd,Drag,False
-1928/29,Ernst Lubitsch,The Patriot,False
-1929/30,Lewis Milestone,All Quiet on the Western Front,True
-1929/30,Clarence Brown,Anna Christie,False
-1929/30,Robert Z. Leonard,The Divorcee,False
-1929/30,Ernst Lubitsch,The Love Parade,False
-1929/30,King Vidor,Hallelujah!,False
-1930/31,Norman Taurog,Skippy,True
-1930/31,Clarence Brown,A Free Soul,False
-1930/31,Lewis Milestone,The Front Page,False
-1930/31,Wesley Ruggles,Cimarron,False
-1930/31,Josef von Sternberg,Morocco,False
-1931/32,Frank Borzage,Bad Girl,True
-1931/32,King Vidor,The Champ,False
-1931/32,Josef von Sternberg,Shanghai Express,False
-1932/33,Frank Lloyd,Cavalcade,True
-1932/33,Frank Capra,Lady for a Day,False
-1932/33,George Cukor,Little Women,False
-1934,Frank Capra,It Happened One Night,True
-1934,Victor Schertzinger,One Night of Love,False
-1934,W. S. Van Dyke,The Thin Man,False
-1935,John Ford,The Informer,True
-1935,Henry Hathaway,The Lives of a Bengal Lancer,False
-1935,Frank Lloyd,Mutiny on the Bounty,False
-1935,Michael Curtiz(Write-in),Captain Blood,False
-1936,Frank Capra,Mr. Deeds Goes to Town,True
-1936,Gregory La Cava,My Man Godfrey,False
-1936,Robert Z. Leonard,The Great Ziegfeld,False
-1936,W. S. Van Dyke,San Francisco,False
-1936,William Wyler,Dodsworth,False
-1937,Leo McCarey,The Awful Truth,True
-1937,William Dieterle,The Life of Emile Zola,False
-1937,Sidney Franklin,The Good Earth,False
-1937,Gregory La Cava,Stage Door,False
-1937,William A. Wellman,A Star Is Born,False
-1938,Frank Capra,You Can't Take It with You,True
-1938,Michael Curtiz,Angels with Dirty Faces,False
-1938,Norman Taurog,Boys Town,False
-1938,King Vidor,The Citadel,False
-1939,Victor Fleming,Gone with the Wind,True
-1939,Frank Capra,Mr. Smith Goes to Washington,False
-1939,John Ford,Stagecoach,False
-1939,Sam Wood,"Goodbye, Mr. Chips",False
-1939,William Wyler,Wuthering Heights,False
-1940,John Ford,The Grapes of Wrath,True
-1940,George Cukor,The Philadelphia Story,False
-1940,Alfred Hitchcock,Rebecca,False
-1940,Sam Wood,Kitty Foyle,False
-1940,William Wyler,The Letter,False
-1941,John Ford,How Green Was My Valley,True
-1941,Alexander Hall,Here Comes Mr. Jordan,False
-1941,Howard Hawks,Sergeant York,False
-1941,Orson Welles,Citizen Kane,False
-1941,William Wyler,The Little Foxes,False
-1942,William Wyler,Mrs. Miniver,True
-1942,Michael Curtiz,Yankee Doodle Dandy,False
-1942,John Farrow,Wake Island,False
-1942,Mervyn LeRoy,Random Harvest,False
-1942,Sam Wood,Kings Row,False
-1943,Michael Curtiz,Casablanca,True
-1943,Clarence Brown,The Human Comedy,False
-1943,Henry King,The Song of Bernadette,False
-1943,Ernst Lubitsch,Heaven Can Wait,False
-1943,George Stevens,The More the Merrier,False
-1944,Leo McCarey,Going My Way,True
-1944,Alfred Hitchcock,Lifeboat,False
-1944,Henry King,Wilson,False
-1944,Otto Preminger,Laura,False
-1944,Billy Wilder,Double Indemnity,False
-1945,Billy Wilder,The Lost Weekend,True
-1945,Clarence Brown,National Velvet,False
-1945,Alfred Hitchcock,Spellbound,False
-1945,Leo McCarey,The Bells of St. Mary's,False
-1945,Jean Renoir,The Southerner,False
-1946,William Wyler,The Best Years of Our Lives,True
-1946,Clarence Brown,The Yearling,False
-1946,Frank Capra,It's a Wonderful Life,False
-1946,David Lean,Brief Encounter,False
-1946,Robert Siodmak,The Killers,False
-1947,Elia Kazan,Gentleman's Agreement,True
-1947,George Cukor,A Double Life,False
-1947,Edward Dmytryk,Crossfire,False
-1947,Henry Koster,The Bishop's Wife,False
-1947,David Lean,Great Expectations,False
-1948,John Huston,The Treasure of the Sierra Madre,True
-1948,Anatole Litvak,The Snake Pit,False
-1948,Jean Negulesco,Johnny Belinda,False
-1948,Laurence Olivier,Hamlet,False
-1948,Fred Zinnemann,The Search,False
-1949,Joseph L. Mankiewicz,A Letter to Three Wives,True
-1949,Carol Reed,The Fallen Idol,False
-1949,Robert Rossen,All the King's Men,False
-1949,William A. Wellman,Battleground,False
-1949,William Wyler,The Heiress,False
-1950,Joseph L. Mankiewicz,All About Eve,True
-1950,George Cukor,Born Yesterday,False
-1950,John Huston,The Asphalt Jungle,False
-1950,Carol Reed,The Third Man,False
-1950,Billy Wilder,Sunset Boulevard,False
-1951,George Stevens,A Place in the Sun,True
-1951,John Huston,The African Queen,False
-1951,Elia Kazan,A Streetcar Named Desire,False
-1951,Vincente Minnelli,An American in Paris,False
-1951,William Wyler,Detective Story,False
-1952,John Ford,The Quiet Man,True
-1952,Cecil B. DeMille,The Greatest Show on Earth,False
-1952,John Huston,Moulin Rouge,False
-1952,Joseph L. Mankiewicz,5 Fingers,False
-1952,Fred Zinnemann,High Noon,False
-1953,Fred Zinnemann,From Here to Eternity,True
-1953,George Stevens,Shane,False
-1953,Charles Walters,Lili,False
-1953,Billy Wilder,Stalag 17,False
-1953,William Wyler,Roman Holiday,False
-1954,Elia Kazan,On the Waterfront,True
-1954,Alfred Hitchcock,Rear Window,False
-1954,George Seaton,The Country Girl,False
-1954,William A. Wellman,The High and the Mighty,False
-1954,Billy Wilder,Sabrina,False
-1955,Delbert Mann,Marty,True
-1955,Elia Kazan,East of Eden,False
-1955,David Lean,Summertime,False
-1955,Joshua Logan,Picnic,False
-1955,John Sturges,Bad Day at Black Rock,False
-1956,George Stevens,Giant,True
-1956,Michael Anderson,Around the World in 80 Days,False
-1956,Walter Lang,The King and I,False
-1956,King Vidor,War and Peace,False
-1956,William Wyler,Friendly Persuasion,False
-1957,David Lean,The Bridge on the River Kwai,True
-1957,Joshua Logan,Sayonara,False
-1957,Sidney Lumet,12 Angry Men,False
-1957,Mark Robson,Peyton Place,False
-1957,Billy Wilder,Witness for the Prosecution,False
-1958,Vincente Minnelli,Gigi,True
-1958,Richard Brooks,Cat on a Hot Tin Roof,False
-1958,Stanley Kramer,The Defiant Ones,False
-1958,Mark Robson,The Inn of the Sixth Happiness,False
-1958,Robert Wise,I Want to Live!,False
-1959,William Wyler,Ben-Hur,True
-1959,Jack Clayton,Room at the Top,False
-1959,George Stevens,The Diary of Anne Frank,False
-1959,Billy Wilder,Some Like It Hot,False
-1959,Fred Zinnemann,The Nun's Story,False
-1960,Billy Wilder,The Apartment,True
-1960,Jack Cardiff,Sons and Lovers,False
-1960,Jules Dassin,Never on Sunday,False
-1960,Alfred Hitchcock,Psycho,False
-1960,Fred Zinnemann,The Sundowners,False
-1961,Robert Wise&Jerome Robbins,West Side Story,True
-1961,Federico Fellini,La Dolce Vita,False
-1961,Stanley Kramer,Judgment at Nuremberg,False
-1961,Robert Rossen,The Hustler,False
-1961,J. Lee Thompson,The Guns of Navarone,False
-1962,David Lean,Lawrence of Arabia,True
-1962,Pietro Germi,Divorce Italian Style,False
-1962,Robert Mulligan,To Kill a Mockingbird,False
-1962,Arthur Penn,The Miracle Worker,False
-1962,Frank Perry,David and Lisa,False
-1963,Tony Richardson,Tom Jones,True
-1963,Federico Fellini,8½,False
-1963,Elia Kazan,America America,False
-1963,Otto Preminger,The Cardinal,False
-1963,Martin Ritt,Hud,False
-1964,George Cukor,My Fair Lady,True
-1964,Michael Cacoyannis,Zorba the Greek,False
-1964,Peter Glenville,Becket,False
-1964,Stanley Kubrick,Dr. Strangelove,False
-1964,Robert Stevenson,Mary Poppins,False
-1965,Robert Wise,The Sound of Music,True
-1965,David Lean,Doctor Zhivago,False
-1965,John Schlesinger,Darling,False
-1965,Hiroshi Teshigahara,Woman in the Dunes,False
-1965,William Wyler,The Collector,False
-1966,Fred Zinnemann,A Man for All Seasons,True
-1966,Michelangelo Antonioni,Blowup,False
-1966,Richard Brooks,The Professionals,False
-1966,Claude Lelouch,A Man and a Woman,False
-1966,Mike Nichols,Who's Afraid of Virginia Woolf?,False
-1967,Mike Nichols,The Graduate,True
-1967,Richard Brooks,In Cold Blood,False
-1967,Norman Jewison,In the Heat of the Night,False
-1967,Stanley Kramer,Guess Who's Coming to Dinner,False
-1967,Arthur Penn,Bonnie and Clyde,False
-1968,Carol Reed,Oliver!,True
-1968,Anthony Harvey,The Lion in Winter,False
-1968,Stanley Kubrick,2001: A Space Odyssey,False
-1968,Gillo Pontecorvo,The Battle of Algiers,False
-1968,Franco Zeffirelli,Romeo and Juliet,False
-1969,John Schlesinger,Midnight Cowboy,True
-1969,Costa-Gavras,Z,False
-1969,George Roy Hill,Butch Cassidy and the Sundance Kid,False
-1969,Arthur Penn,Alice's Restaurant,False
-1969,Sydney Pollack,"They Shoot Horses, Don't They?",False
-1970,Franklin J. Schaffner,Patton,True
-1970,Robert Altman,M*A*S*H,False
-1970,Federico Fellini,Fellini Satyricon,False
-1970,Arthur Hiller,Love Story,False
-1970,Ken Russell,Women in Love,False
-1971,William Friedkin,The French Connection,True
-1971,Peter Bogdanovich,The Last Picture Show,False
-1971,Norman Jewison,Fiddler on the Roof,False
-1971,Stanley Kubrick,A Clockwork Orange,False
-1971,John Schlesinger,Sunday Bloody Sunday,False
-1972,Bob Fosse,Cabaret,True
-1972,John Boorman,Deliverance,False
-1972,Francis Ford Coppola,The Godfather,False
-1972,Joseph L. Mankiewicz,Sleuth,False
-1972,Jan Troell,The Emigrants,False
-1973,George Roy Hill,The Sting,True
-1973,Ingmar Bergman,Cries and Whispers,False
-1973,Bernardo Bertolucci,Last Tango in Paris,False
-1973,William Friedkin,The Exorcist,False
-1973,George Lucas,American Graffiti,False
-1974,Francis Ford Coppola,The Godfather Part II,True
-1974,John Cassavetes,A Woman Under the Influence,False
-1974,Bob Fosse,Lenny,False
-1974,Roman Polanski,Chinatown,False
-1974,François Truffaut,Day for Night,False
-1975,Miloš Forman,One Flew Over the Cuckoo's Nest,True
-1975,Robert Altman,Nashville,False
-1975,Federico Fellini,Amarcord,False
-1975,Stanley Kubrick,Barry Lyndon,False
-1975,Sidney Lumet,Dog Day Afternoon,False
-1976,John G. Avildsen,Rocky,True
-1976,Ingmar Bergman,Face to Face,False
-1976,Sidney Lumet,Network,False
-1976,Alan J. Pakula,All the President's Men,False
-1976,Lina Wertmüller,Seven Beauties,False
-1977,Woody Allen,Annie Hall,True
-1977,George Lucas,Star Wars,False
-1977,Herbert Ross,The Turning Point,False
-1977,Steven Spielberg,Close Encounters of the Third Kind,False
-1977,Fred Zinnemann,Julia,False
-1978,Michael Cimino,The Deer Hunter,True
-1978,Woody Allen,Interiors,False
-1978,Hal Ashby,Coming Home,False
-1978,Warren Beatty&Buck Henry,Heaven Can Wait,False
-1978,Alan Parker,Midnight Express,False
-1979,Robert Benton,Kramer vs. Kramer,True
-1979,Francis Ford Coppola,Apocalypse Now,False
-1979,Bob Fosse,All That Jazz,False
-1979,Édouard Molinaro,La Cage aux Folles,False
-1979,Peter Yates,Breaking Away,False
-1980,Robert Redford,Ordinary People,True
-1980,David Lynch,The Elephant Man,False
-1980,Roman Polanski,Tess,False
-1980,Richard Rush,The Stunt Man,False
-1980,Martin Scorsese,Raging Bull,False
-1981,Warren Beatty,Reds,True
-1981,Hugh Hudson,Chariots of Fire,False
-1981,Louis Malle,Atlantic City,False
-1981,Mark Rydell,On Golden Pond,False
-1981,Steven Spielberg,Raiders of the Lost Ark,False
-1982,Richard Attenborough,Gandhi,True
-1982,Sidney Lumet,The Verdict,False
-1982,Wolfgang Petersen,Das Boot,False
-1982,Sydney Pollack,Tootsie,False
-1982,Steven Spielberg,E.T. the Extra-Terrestrial,False
-1983,James L. Brooks,Terms of Endearment,True
-1983,Bruce Beresford,Tender Mercies,False
-1983,Ingmar Bergman,Fanny and Alexander,False
-1983,Mike Nichols,Silkwood,False
-1983,Peter Yates,The Dresser,False
-1984,Miloš Forman,Amadeus,True
-1984,Woody Allen,Broadway Danny Rose,False
-1984,Robert Benton,Places in the Heart,False
-1984,Roland Joffé,The Killing Fields,False
-1984,David Lean,A Passage to India,False
-1985,Sydney Pollack,Out of Africa,True
-1985,Héctor Babenco,Kiss of the Spider Woman,False
-1985,John Huston,Prizzi's Honor,False
-1985,Akira Kurosawa,Ran,False
-1985,Peter Weir,Witness,False
-1986,Oliver Stone,Platoon,True
-1986,Woody Allen,Hannah and Her Sisters,False
-1986,James Ivory,A Room with a View,False
-1986,Roland Joffé,The Mission,False
-1986,David Lynch,Blue Velvet,False
-1987,Bernardo Bertolucci,The Last Emperor,True
-1987,John Boorman,Hope and Glory,False
-1987,Lasse Hallström,My Life as a Dog,False
-1987,Norman Jewison,Moonstruck,False
-1987,Adrian Lyne,Fatal Attraction,False
-1988,Barry Levinson,Rain Man,True
-1988,Charles Crichton,A Fish Called Wanda,False
-1988,Mike Nichols,Working Girl,False
-1988,Alan Parker,Mississippi Burning,False
-1988,Martin Scorsese,The Last Temptation of Christ,False
-1989,Oliver Stone,Born on the Fourth of July,True
-1989,Woody Allen,Crimes and Misdemeanors,False
-1989,Kenneth Branagh,Henry V,False
-1989,Jim Sheridan,My Left Foot,False
-1989,Peter Weir,Dead Poets Society,False
-1990,Kevin Costner,Dances with Wolves,True
-1990,Francis Ford Coppola,The Godfather Part III,False
-1990,Stephen Frears,The Grifters,False
-1990,Barbet Schroeder,Reversal of Fortune,False
-1990,Martin Scorsese,Goodfellas,False
-1991,Jonathan Demme,The Silence of the Lambs,True
-1991,Barry Levinson,Bugsy,False
-1991,Ridley Scott,Thelma & Louise,False
-1991,John Singleton,Boyz n the Hood,False
-1991,Oliver Stone,JFK,False
-1992,Clint Eastwood,Unforgiven,True
-1992,Robert Altman,The Player,False
-1992,Martin Brest,Scent of a Woman,False
-1992,James Ivory,Howards End,False
-1992,Neil Jordan,The Crying Game,False
-1993,Steven Spielberg,Schindler's List,True
-1993,Robert Altman,Short Cuts,False
-1993,Jane Campion,The Piano,False
-1993,James Ivory,The Remains of the Day,False
-1993,Jim Sheridan,In the Name of the Father,False
-1994,Robert Zemeckis,Forrest Gump,True
-1994,Woody Allen,Bullets over Broadway,False
-1994,Krzysztof Kieślowski,Three Colours: Red,False
-1994,Robert Redford,Quiz Show,False
-1994,Quentin Tarantino,Pulp Fiction,False
-1995,Mel Gibson,Braveheart,True
-1995,Mike Figgis,Leaving Las Vegas,False
-1995,Chris Noonan,Babe,False
-1995,Michael Radford,Il Postino: The Postman,False
-1995,Tim Robbins,Dead Man Walking,False
-1996,Anthony Minghella,The English Patient,True
-1996,Joel Coen,Fargo,False
-1996,Miloš Forman,The People vs. Larry Flynt,False
-1996,Scott Hicks,Shine,False
-1996,Mike Leigh,Secrets & Lies,False
-1997,James Cameron,Titanic,True
-1997,Peter Cattaneo,The Full Monty,False
-1997,Atom Egoyan,The Sweet Hereafter,False
-1997,Curtis Hanson,L.A. Confidential,False
-1997,Gus Van Sant,Good Will Hunting,False
-1998,Steven Spielberg,Saving Private Ryan,True
-1998,Roberto Benigni,Life Is Beautiful,False
-1998,John Madden,Shakespeare in Love,False
-1998,Terrence Malick,The Thin Red Line,False
-1998,Peter Weir,The Truman Show,False
-1999,Sam Mendes,American Beauty,True
-1999,Lasse Hallström,The Cider House Rules,False
-1999,Spike Jonze,Being John Malkovich,False
-1999,Michael Mann,The Insider,False
-1999,M. Night Shyamalan,The Sixth Sense,False
-2000,Steven Soderbergh,Traffic,True
-2000,Stephen Daldry,Billy Elliot,False
-2000,Ang Lee,"Crouching Tiger, Hidden Dragon",False
-2000,Ridley Scott,Gladiator,False
-2000,Steven Soderbergh,Erin Brockovich,False
-2001,Ron Howard,A Beautiful Mind,True
-2001,Robert Altman,Gosford Park,False
-2001,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,False
-2001,David Lynch,Mulholland Drive,False
-2001,Ridley Scott,Black Hawk Down,False
-2002,Roman Polanski,The Pianist,True
-2002,Pedro Almodóvar,Talk to Her,False
-2002,Stephen Daldry,The Hours,False
-2002,Rob Marshall,Chicago,False
-2002,Martin Scorsese,Gangs of New York,False
-2003,Peter Jackson,The Lord of the Rings: The Return of the King,True
-2003,Sofia Coppola,Lost in Translation,False
-2003,Clint Eastwood,Mystic River,False
-2003,Fernando Meirelles,City of God,False
-2003,Peter Weir,Master and Commander: The Far Side of the World,False
-2004,Clint Eastwood,Million Dollar Baby,True
-2004,Taylor Hackford,Ray,False
-2004,Mike Leigh,Vera Drake,False
-2004,Alexander Payne,Sideways,False
-2004,Martin Scorsese,The Aviator,False
-2005,Ang Lee,Brokeback Mountain,True
-2005,George Clooney,"Good Night, and Good Luck",False
-2005,Paul Haggis,Crash,False
-2005,Bennett Miller,Capote,False
-2005,Steven Spielberg,Munich,False
-2006,Martin Scorsese,The Departed,True
-2006,Clint Eastwood,Letters from Iwo Jima,False
-2006,Stephen Frears,The Queen,False
-2006,Paul Greengrass,United 93,False
-2006,Alejandro González Iñárritu,Babel,False
-2007,Joel Coen and Ethan Coen,No Country for Old Men,True
-2007,Paul Thomas Anderson,There Will Be Blood,False
-2007,Tony Gilroy,Michael Clayton,False
-2007,Jason Reitman,Juno,False
-2007,Julian Schnabel,The Diving Bell and the Butterfly,False
-2008,Danny Boyle,Slumdog Millionaire,True
-2008,Stephen Daldry,The Reader,False
-2008,David Fincher,The Curious Case of Benjamin Button,False
-2008,Ron Howard,Frost/Nixon,False
-2008,Gus Van Sant,Milk,False
-2009,Kathryn Bigelow,The Hurt Locker,True
-2009,James Cameron,Avatar,False
-2009,Lee Daniels,Precious,False
-2009,Jason Reitman,Up in the Air,False
-2009,Quentin Tarantino,Inglourious Basterds,False
-2010,Tom Hooper,The King's Speech,True
-2010,Darren Aronofsky,Black Swan,False
-2010,Joel Coen and Ethan Coen,True Grit,False
-2010,David Fincher,The Social Network,False
-2010,David O. Russell,The Fighter,False
-2011,Michel Hazanavicius,The Artist,True
-2011,Woody Allen,Midnight in Paris,False
-2011,Terrence Malick,The Tree of Life,False
-2011,Alexander Payne,The Descendants,False
-2011,Martin Scorsese,Hugo,False
-2012,Ang Lee,Life of Pi,True
-2012,Michael Haneke,Amour,False
-2012,David O. Russell,Silver Linings Playbook,False
-2012,Steven Spielberg,Lincoln,False
-2012,Benh Zeitlin,Beasts of the Southern Wild,False
-2013,Alfonso Cuarón,Gravity,True
-2013,Steve McQueen,12 Years a Slave,False
-2013,Alexander Payne,Nebraska,False
-2013,David O. Russell,American Hustle,False
-2013,Martin Scorsese,The Wolf of Wall Street,False
-2014,Alejandro G. Iñárritu,Birdman,True
-2014,Wes Anderson,The Grand Budapest Hotel,False
-2014,Richard Linklater,Boyhood,False
-2014,Bennett Miller,Foxcatcher,False
-2014,Morten Tyldum,The Imitation Game,False
-2015,Alejandro G. Iñárritu,The Revenant,True
-2015,Lenny Abrahamson,Room,False
-2015,Tom McCarthy,Spotlight,False
-2015,Adam McKay,The Big Short,False
-2015,George Miller,Mad Max: Fury Road,False
-2016,Damien Chazelle,La La Land,True
-2016,Mel Gibson,Hacksaw Ridge,False
-2016,Barry Jenkins,Moonlight,False
-2016,Kenneth Lonergan,Manchester by the Sea,False
-2016,Denis Villeneuve,Arrival,False
-2017,Guillermo del Toro,The Shape of Water,True
-2017,Paul Thomas Anderson,Phantom Thread,False
-2017,Greta Gerwig,Lady Bird,False
-2017,Christopher Nolan,Dunkirk,False
-2017,Jordan Peele,Get Out,False
-2018,Alfonso Cuarón,Roma,True
-2018,Yorgos Lanthimos,The Favourite,False
-2018,Spike Lee,BlacKkKlansman,False
-2018,Adam McKay,Vice,False
-2018,Paweł Pawlikowski,Cold War,False
-2019,Bong Joon-ho,Parasite,True
-2019,Sam Mendes,1917,False
-2019,Todd Phillips,Joker,False
-2019,Martin Scorsese,The Irishman,False
-2019,Quentin Tarantino,Once Upon a Time in Hollywood,False
-2020/21,Chloé Zhao,Nomadland,True
-2020/21,Lee Isaac Chung,Minari,False
-2020/21,Emerald Fennell,Promising Young Woman,False
-2020/21,David Fincher,Mank,False
-2020/21,Thomas Vinterberg,Another Round,False
-2021,Jane Campion,The Power of the Dog,True
-2021,Paul Thomas Anderson,Licorice Pizza,False
-2021,Kenneth Branagh,Belfast,False
-2021,Ryusuke Hamaguchi,Drive My Car,False
-2021,Steven Spielberg,West Side Story,False
-2022,Daniel Kwan and Daniel Scheinert,Everything Everywhere All at Once,True
-2022,Todd Field,Tár,False
-2022,Martin McDonagh,The Banshees of Inisherin,False
-2022,Ruben Östlund,Triangle of Sadness,False
-2022,Steven Spielberg,The Fabelmans,False
-2023,Christopher Nolan,Oppenheimer,True
-2023,Jonathan Glazer,The Zone of Interest,False
-2023,Yorgos Lanthimos,Poor Things,False
-2023,Martin Scorsese,Killers of the Flower Moon,False
-2023,Justine Triet,Anatomy of a Fall,False
-2024,Sean Baker,Anora,True
-2024,Jacques Audiard,Emilia Pérez,False
-2024,Brady Corbet,The Brutalist,False
-2024,Coralie Fargeat,The Substance,False
-2024,James Mangold,A Complete Unknown,False
+movie_id,Year,Director,Film,Winner
+tt0018379,1928,Frank Borzage,7th Heaven,True
+,1928,Herbert Brenon,Sorrell and Son,False
+,1928,King Vidor,The Crowd,False
+,1928,Lewis Milestone,Two Arabian Knights,True
+,1928,Ted Wilde,Speedy,False
+,1928,Charlie Chaplin,The Circus,False
+,1929,Frank Lloyd,The Divine Lady,True
+,1929,Lionel Barrymore,Madame X,False
+tt0019729,1929,Harry Beaumont,The Broadway Melody,False
+tt0020018,1929,Irving Cummings,In Old Arizona,False
+,1929,Frank Lloyd,Drag,False
+tt0019257,1929,Ernst Lubitsch,The Patriot,False
+tt0020629,1930,Lewis Milestone,All Quiet on the Western Front,True
+,1930,Clarence Brown,Anna Christie,False
+tt0020827,1930,Robert Z. Leonard,The Divorcee,False
+tt0020112,1930,Ernst Lubitsch,The Love Parade,False
+,1930,King Vidor,Hallelujah!,False
+tt0022397,1931,Norman Taurog,Skippy,True
+,1931,Clarence Brown,A Free Soul,False
+tt0021890,1931,Lewis Milestone,The Front Page,False
+tt0021746,1931,Wesley Ruggles,Cimarron,False
+,1931,Josef von Sternberg,Morocco,False
+tt0021635,1932,Frank Borzage,Bad Girl,True
+tt0021730,1932,King Vidor,The Champ,False
+tt0023458,1932,Josef von Sternberg,Shanghai Express,False
+tt0023876,1933,Frank Lloyd,Cavalcade,True
+,1933,Frank Capra,Lady for a Day,False
+tt0024264,1933,George Cukor,Little Women,False
+tt0025316,1934,Frank Capra,It Happened One Night,True
+tt0025601,1934,Victor Schertzinger,One Night of Love,False
+,1934,W. S. Van Dyke,The Thin Man,False
+tt0026529,1935,John Ford,The Informer,True
+tt0026643,1935,Henry Hathaway,The Lives of a Bengal Lancer,False
+tt0026752,1935,Frank Lloyd,Mutiny on the Bounty,False
+tt0026174,1935,Michael Curtiz,Captain Blood,False
+,1936,Frank Capra,Mr. Deeds Goes to Town,True
+,1936,Gregory La Cava,My Man Godfrey,False
+tt0027698,1936,Robert Z. Leonard,The Great Ziegfeld,False
+tt0028216,1936,W. S. Van Dyke,San Francisco,False
+tt0027532,1936,William Wyler,Dodsworth,False
+tt0028597,1937,Leo McCarey,The Awful Truth,True
+tt0029146,1937,William Dieterle,The Life of Emile Zola,False
+tt0028944,1937,Sidney Franklin,The Good Earth,False
+tt0029604,1937,Gregory La Cava,Stage Door,False
+tt0029606,1937,William A. Wellman,A Star Is Born,False
+,1938,Frank Capra,You Can't Take It with You,True
+,1938,Michael Curtiz,Angels with Dirty Faces,False
+tt0029942,1938,Norman Taurog,Boys Town,False
+tt0029995,1938,King Vidor,The Citadel,False
+tt0031381,1939,Victor Fleming,Gone with the Wind,True
+tt0031679,1939,Frank Capra,Mr. Smith Goes to Washington,False
+tt0031971,1939,John Ford,Stagecoach,False
+tt0031385,1939,Sam Wood,"Goodbye, Mr. Chips",False
+tt0032145,1939,William Wyler,Wuthering Heights,False
+tt0032551,1940,John Ford,The Grapes of Wrath,True
+tt0032904,1940,George Cukor,The Philadelphia Story,False
+tt0032976,1940,Alfred Hitchcock,Rebecca,False
+tt0032671,1940,Sam Wood,Kitty Foyle,False
+tt0032701,1940,William Wyler,The Letter,False
+tt0033729,1941,John Ford,How Green Was My Valley,True
+tt0033712,1941,Alexander Hall,Here Comes Mr. Jordan,False
+tt0034167,1941,Howard Hawks,Sergeant York,False
+tt0033467,1941,Orson Welles,Citizen Kane,False
+tt0033836,1941,William Wyler,The Little Foxes,False
+tt0035093,1942,William Wyler,Mrs. Miniver,True
+tt0035575,1942,Michael Curtiz,Yankee Doodle Dandy,False
+tt0035530,1942,John Farrow,Wake Island,False
+tt0035238,1942,Mervyn LeRoy,Random Harvest,False
+tt0034946,1942,Sam Wood,Kings Row,False
+,1943,Michael Curtiz,Casablanca,True
+tt0036022,1943,Clarence Brown,The Human Comedy,False
+tt0036377,1943,Henry King,The Song of Bernadette,False
+tt0035979,1943,Ernst Lubitsch,Heaven Can Wait,False
+tt0036172,1943,George Stevens,The More the Merrier,False
+tt0036872,1944,Leo McCarey,Going My Way,True
+,1944,Alfred Hitchcock,Lifeboat,False
+tt0037465,1944,Henry King,Wilson,False
+,1944,Otto Preminger,Laura,False
+tt0036775,1944,Billy Wilder,Double Indemnity,False
+tt0037884,1945,Billy Wilder,The Lost Weekend,True
+,1945,Clarence Brown,National Velvet,False
+tt0038109,1945,Alfred Hitchcock,Spellbound,False
+tt0037536,1945,Leo McCarey,The Bells of St. Mary's,False
+,1945,Jean Renoir,The Southerner,False
+tt0036868,1946,William Wyler,The Best Years of Our Lives,True
+tt0039111,1946,Clarence Brown,The Yearling,False
+tt0038650,1946,Frank Capra,It's a Wonderful Life,False
+,1946,David Lean,Brief Encounter,False
+,1946,Robert Siodmak,The Killers,False
+tt0039416,1947,Elia Kazan,Gentleman's Agreement,True
+,1947,George Cukor,A Double Life,False
+tt0039286,1947,Edward Dmytryk,Crossfire,False
+tt0039190,1947,Henry Koster,The Bishop's Wife,False
+,1947,David Lean,Great Expectations,False
+tt0040897,1948,John Huston,The Treasure of the Sierra Madre,True
+tt0040806,1948,Anatole Litvak,The Snake Pit,False
+tt0040495,1948,Jean Negulesco,Johnny Belinda,False
+tt0040416,1948,Laurence Olivier,Hamlet,False
+,1948,Fred Zinnemann,The Search,False
+tt0041587,1949,Joseph L. Mankiewicz,A Letter to Three Wives,True
+,1949,Carol Reed,The Fallen Idol,False
+tt0041113,1949,Robert Rossen,All the King's Men,False
+tt0041163,1949,William A. Wellman,Battleground,False
+tt0041452,1949,William Wyler,The Heiress,False
+tt0042192,1950,Joseph L. Mankiewicz,All About Eve,True
+tt0042276,1950,George Cukor,Born Yesterday,False
+,1950,John Huston,The Asphalt Jungle,False
+,1950,Carol Reed,The Third Man,False
+tt0043014,1950,Billy Wilder,Sunset Boulevard,False
+tt0043924,1951,George Stevens,A Place in the Sun,True
+,1951,John Huston,The African Queen,False
+tt0044081,1951,Elia Kazan,A Streetcar Named Desire,False
+tt0043278,1951,Vincente Minnelli,An American in Paris,False
+,1951,William Wyler,Detective Story,False
+tt0045061,1952,John Ford,The Quiet Man,True
+tt0044672,1952,Cecil B. DeMille,The Greatest Show on Earth,False
+tt0044926,1952,John Huston,Moulin Rouge,False
+,1952,Joseph L. Mankiewicz,5 Fingers,False
+tt0044706,1952,Fred Zinnemann,High Noon,False
+tt0045793,1953,Fred Zinnemann,From Here to Eternity,True
+tt0046303,1953,George Stevens,Shane,False
+,1953,Charles Walters,Lili,False
+,1953,Billy Wilder,Stalag 17,False
+tt0046250,1953,William Wyler,Roman Holiday,False
+tt0047296,1954,Elia Kazan,On the Waterfront,True
+,1954,Alfred Hitchcock,Rear Window,False
+tt0046874,1954,George Seaton,The Country Girl,False
+,1954,William A. Wellman,The High and the Mighty,False
+,1954,Billy Wilder,Sabrina,False
+tt0048356,1955,Delbert Mann,Marty,True
+,1955,Elia Kazan,East of Eden,False
+,1955,David Lean,Summertime,False
+tt0048491,1955,Joshua Logan,Picnic,False
+,1955,John Sturges,Bad Day at Black Rock,False
+tt0049261,1956,George Stevens,Giant,True
+tt0048960,1956,Michael Anderson,Around the World in 80 Days,False
+tt0049408,1956,Walter Lang,The King and I,False
+,1956,King Vidor,War and Peace,False
+tt0049233,1956,William Wyler,Friendly Persuasion,False
+tt0050212,1957,David Lean,The Bridge on the River Kwai,True
+tt0050933,1957,Joshua Logan,Sayonara,False
+tt0050083,1957,Sidney Lumet,12 Angry Men,False
+tt0050839,1957,Mark Robson,Peyton Place,False
+tt0051201,1957,Billy Wilder,Witness for the Prosecution,False
+tt0051658,1958,Vincente Minnelli,Gigi,True
+tt0051459,1958,Richard Brooks,Cat on a Hot Tin Roof,False
+tt0051525,1958,Stanley Kramer,The Defiant Ones,False
+,1958,Mark Robson,The Inn of the Sixth Happiness,False
+,1958,Robert Wise,I Want to Live!,False
+tt0052618,1959,William Wyler,Ben-Hur,True
+,1959,Jack Clayton,Room at the Top,False
+tt0052738,1959,George Stevens,The Diary of Anne Frank,False
+,1959,Billy Wilder,Some Like It Hot,False
+tt0053131,1959,Fred Zinnemann,The Nun's Story,False
+tt0053604,1960,Billy Wilder,The Apartment,True
+tt0054326,1960,Jack Cardiff,Sons and Lovers,False
+,1960,Jules Dassin,Never on Sunday,False
+,1960,Alfred Hitchcock,Psycho,False
+tt0054353,1960,Fred Zinnemann,The Sundowners,False
+tt0055614,1961,Robert Wise,West Side Story,True
+tt0055614,1961,Jerome Robbins,West Side Story,True
+,1961,Federico Fellini,La Dolce Vita,False
+tt0055031,1961,Stanley Kramer,Judgment at Nuremberg,False
+tt0054997,1961,Robert Rossen,The Hustler,False
+tt0054953,1961,J. Lee Thompson,The Guns of Navarone,False
+tt0056172,1962,David Lean,Lawrence of Arabia,True
+,1962,Pietro Germi,Divorce Italian Style,False
+tt0056592,1962,Robert Mulligan,To Kill a Mockingbird,False
+,1962,Arthur Penn,The Miracle Worker,False
+,1962,Frank Perry,David and Lisa,False
+tt0057590,1963,Tony Richardson,Tom Jones,True
+,1963,Federico Fellini,8.5,False
+tt0056825,1963,Elia Kazan,America America,False
+,1963,Otto Preminger,The Cardinal,False
+,1963,Martin Ritt,Hud,False
+tt0058385,1964,George Cukor,My Fair Lady,True
+tt0057831,1964,Michael Cacoyannis,Zorba the Greek,False
+tt0057877,1964,Peter Glenville,Becket,False
+,1964,Stanley Kubrick,Dr. Strangelove,False
+tt0058331,1964,Robert Stevenson,Mary Poppins,False
+tt0059742,1965,Robert Wise,The Sound of Music,True
+tt0059113,1965,David Lean,Doctor Zhivago,False
+tt0059084,1965,John Schlesinger,Darling,False
+,1965,Hiroshi Teshigahara,Woman in the Dunes,False
+,1965,William Wyler,The Collector,False
+tt0060665,1966,Fred Zinnemann,A Man for All Seasons,True
+,1966,Michelangelo Antonioni,Blowup,False
+,1966,Richard Brooks,The Professionals,False
+,1966,Claude Lelouch,A Man and a Woman,False
+tt0061184,1966,Mike Nichols,Who's Afraid of Virginia Woolf?,False
+tt0061722,1967,Mike Nichols,The Graduate,True
+,1967,Richard Brooks,In Cold Blood,False
+tt0061811,1967,Norman Jewison,In the Heat of the Night,False
+tt0061735,1967,Stanley Kramer,Guess Who's Coming to Dinner,False
+tt0061418,1967,Arthur Penn,Bonnie and Clyde,False
+tt0063385,1968,Carol Reed,Oliver!,True
+tt0063227,1968,Anthony Harvey,The Lion in Winter,False
+,1968,Stanley Kubrick,2001: A Space Odyssey,False
+,1968,Gillo Pontecorvo,The Battle of Algiers,False
+tt0063518,1968,Franco Zeffirelli,Romeo and Juliet,False
+tt0064665,1969,John Schlesinger,Midnight Cowboy,True
+tt0065234,1969,Costa-Gavras,Z,False
+tt0064115,1969,George Roy Hill,Butch Cassidy and the Sundance Kid,False
+,1969,Arthur Penn,Alice's Restaurant,False
+,1969,Sydney Pollack,"They Shoot Horses, Don't They?",False
+tt0066206,1970,Franklin J. Schaffner,Patton,True
+tt0066026,1970,Robert Altman,M*A*S*H,False
+,1970,Federico Fellini,Fellini Satyricon,False
+tt0066011,1970,Arthur Hiller,Love Story,False
+,1970,Ken Russell,Women in Love,False
+tt0067116,1971,William Friedkin,The French Connection,True
+tt0067328,1971,Peter Bogdanovich,The Last Picture Show,False
+tt0067093,1971,Norman Jewison,Fiddler on the Roof,False
+tt0066921,1971,Stanley Kubrick,A Clockwork Orange,False
+,1971,John Schlesinger,Sunday Bloody Sunday,False
+tt0068327,1972,Bob Fosse,Cabaret,True
+tt0068473,1972,John Boorman,Deliverance,False
+tt0068646,1972,Francis Ford Coppola,The Godfather,False
+,1972,Joseph L. Mankiewicz,Sleuth,False
+,1972,Jan Troell,The Emigrants,False
+tt0070735,1973,George Roy Hill,The Sting,True
+,1973,Ingmar Bergman,Cries and Whispers,False
+,1973,Bernardo Bertolucci,Last Tango in Paris,False
+tt0070047,1973,William Friedkin,The Exorcist,False
+tt0069704,1973,George Lucas,American Graffiti,False
+tt0071562,1974,Francis Ford Coppola,The Godfather Part II,True
+,1974,John Cassavetes,A Woman Under the Influence,False
+tt0071746,1974,Bob Fosse,Lenny,False
+tt0071315,1974,Roman Polanski,Chinatown,False
+,1974,Francois Truffaut,Day for Night,False
+tt0073486,1975,Milos Forman,One Flew Over the Cuckoo's Nest,True
+tt0073440,1975,Robert Altman,Nashville,False
+,1975,Federico Fellini,Amarcord,False
+tt0072684,1975,Stanley Kubrick,Barry Lyndon,False
+tt0072890,1975,Sidney Lumet,Dog Day Afternoon,False
+tt0075148,1976,John G. Avildsen,Rocky,True
+,1976,Ingmar Bergman,Face to Face,False
+tt0074958,1976,Sidney Lumet,Network,False
+tt0074119,1976,Alan J. Pakula,All the President's Men,False
+,1976,Lina Wertmuller,Seven Beauties,False
+tt0075686,1977,Woody Allen,Annie Hall,True
+,1977,George Lucas,Star Wars,False
+tt0076843,1977,Herbert Ross,The Turning Point,False
+,1977,Steven Spielberg,Close Encounters of the Third Kind,False
+tt0076245,1977,Fred Zinnemann,Julia,False
+tt0077416,1978,Michael Cimino,The Deer Hunter,True
+,1978,Woody Allen,Interiors,False
+tt0077362,1978,Hal Ashby,Coming Home,False
+tt0077663,1978,Warren Beatty,Heaven Can Wait,False
+tt0077663,1978,Buck Henry,Heaven Can Wait,False
+tt0077928,1978,Alan Parker,Midnight Express,False
+tt0079417,1979,Robert Benton,Kramer vs. Kramer,True
+tt0078788,1979,Francis Ford Coppola,Apocalypse Now,False
+tt0078754,1979,Bob Fosse,All That Jazz,False
+,1979,Edouard Molinaro,La Cage aux Folles,False
+tt0078902,1979,Peter Yates,Breaking Away,False
+tt0081283,1980,Robert Redford,Ordinary People,True
+tt0080678,1980,David Lynch,The Elephant Man,False
+,1980,Roman Polanski,Tess,False
+,1980,Richard Rush,The Stunt Man,False
+tt0081398,1980,Martin Scorsese,Raging Bull,False
+tt0082979,1981,Warren Beatty,Reds,True
+tt0082158,1981,Hugh Hudson,Chariots of Fire,False
+,1981,Louis Malle,Atlantic City,False
+tt0082846,1981,Mark Rydell,On Golden Pond,False
+tt0082971,1981,Steven Spielberg,Raiders of the Lost Ark,False
+tt0083987,1982,Richard Attenborough,Gandhi,True
+tt0084855,1982,Sidney Lumet,The Verdict,False
+,1982,Wolfgang Petersen,Das Boot,False
+tt0084805,1982,Sydney Pollack,Tootsie,False
+tt0083866,1982,Steven Spielberg,E.T. the Extra-Terrestrial,False
+tt0086425,1983,James L. Brooks,Terms of Endearment,True
+tt0086423,1983,Bruce Beresford,Tender Mercies,False
+,1983,Ingmar Bergman,Fanny and Alexander,False
+,1983,Mike Nichols,Silkwood,False
+tt0085461,1983,Peter Yates,The Dresser,False
+tt0086879,1984,Milos Forman,Amadeus,True
+,1984,Woody Allen,Broadway Danny Rose,False
+tt0087921,1984,Robert Benton,Places in the Heart,False
+tt0087553,1984,Roland Joffe,The Killing Fields,False
+tt0087892,1984,David Lean,A Passage to India,False
+tt0089755,1985,Sydney Pollack,Out of Africa,True
+tt0089424,1985,Hector Babenco,Kiss of the Spider Woman,False
+tt0089841,1985,John Huston,Prizzi's Honor,False
+,1985,Akira Kurosawa,Ran,False
+tt0090329,1985,Peter Weir,Witness,False
+tt0091763,1986,Oliver Stone,Platoon,True
+tt0091167,1986,Woody Allen,Hannah and Her Sisters,False
+,1986,James Ivory,A Room with a View,False
+tt0091530,1986,Roland Joffe,The Mission,False
+,1986,David Lynch,Blue Velvet,False
+tt0093389,1987,Bernardo Bertolucci,The Last Emperor,True
+tt0093209,1987,John Boorman,Hope and Glory,False
+,1987,Lasse Hallstrom,My Life as a Dog,False
+tt0093565,1987,Norman Jewison,Moonstruck,False
+tt0093010,1987,Adrian Lyne,Fatal Attraction,False
+tt0095953,1988,Barry Levinson,Rain Man,True
+,1988,Charles Crichton,A Fish Called Wanda,False
+tt0096463,1988,Mike Nichols,Working Girl,False
+tt0095647,1988,Alan Parker,Mississippi Burning,False
+,1988,Martin Scorsese,The Last Temptation of Christ,False
+tt0096969,1989,Oliver Stone,Born on the Fourth of July,True
+,1989,Woody Allen,Crimes and Misdemeanors,False
+,1989,Kenneth Branagh,Henry V,False
+tt0097937,1989,Jim Sheridan,My Left Foot,False
+tt0097165,1989,Peter Weir,Dead Poets Society,False
+tt0099348,1990,Kevin Costner,Dances with Wolves,True
+tt0099674,1990,Francis Ford Coppola,The Godfather Part III,False
+,1990,Stephen Frears,The Grifters,False
+,1990,Barbet Schroeder,Reversal of Fortune,False
+tt0099685,1990,Martin Scorsese,Goodfellas,False
+tt0102926,1991,Jonathan Demme,The Silence of the Lambs,True
+tt0101516,1991,Barry Levinson,Bugsy,False
+,1991,Ridley Scott,Thelma & Louise,False
+,1991,John Singleton,Boyz n the Hood,False
+tt0102138,1991,Oliver Stone,JFK,False
+tt0105695,1992,Clint Eastwood,Unforgiven,True
+,1992,Robert Altman,The Player,False
+tt0105323,1992,Martin Brest,Scent of a Woman,False
+tt0104454,1992,James Ivory,Howards End,False
+tt0104036,1992,Neil Jordan,The Crying Game,False
+tt0108052,1993,Steven Spielberg,Schindler's List,True
+,1993,Robert Altman,Short Cuts,False
+tt0107822,1993,Jane Campion,The Piano,False
+tt0107943,1993,James Ivory,The Remains of the Day,False
+tt0107207,1993,Jim Sheridan,In the Name of the Father,False
+tt0109830,1994,Robert Zemeckis,Forrest Gump,True
+,1994,Woody Allen,Bullets over Broadway,False
+,1994,Krzysztof Kieslowski,Three Colours: Red,False
+tt0110932,1994,Robert Redford,Quiz Show,False
+tt0110912,1994,Quentin Tarantino,Pulp Fiction,False
+tt0112573,1995,Mel Gibson,Braveheart,True
+,1995,Mike Figgis,Leaving Las Vegas,False
+tt0112431,1995,Chris Noonan,Babe,False
+,1995,Michael Radford,Il Postino: The Postman,False
+,1995,Tim Robbins,Dead Man Walking,False
+tt0116209,1996,Anthony Minghella,The English Patient,True
+tt0116282,1996,Joel Coen,Fargo,False
+,1996,Milos Forman,The People vs. Larry Flynt,False
+tt0117631,1996,Scott Hicks,Shine,False
+tt0117589,1996,Mike Leigh,Secrets & Lies,False
+tt0120338,1997,James Cameron,Titanic,True
+tt0119164,1997,Peter Cattaneo,The Full Monty,False
+,1997,Atom Egoyan,The Sweet Hereafter,False
+tt0119488,1997,Curtis Hanson,L.A. Confidential,False
+tt0119217,1997,Gus Van Sant,Good Will Hunting,False
+tt0120815,1998,Steven Spielberg,Saving Private Ryan,True
+,1998,Roberto Benigni,Life Is Beautiful,False
+tt0138097,1998,John Madden,Shakespeare in Love,False
+tt0120863,1998,Terrence Malick,The Thin Red Line,False
+,1998,Peter Weir,The Truman Show,False
+tt0169547,1999,Sam Mendes,American Beauty,True
+tt0124315,1999,Lasse Hallstrom,The Cider House Rules,False
+,1999,Spike Jonze,Being John Malkovich,False
+tt0140352,1999,Michael Mann,The Insider,False
+tt0167404,1999,M. Night Shyamalan,The Sixth Sense,False
+tt0181865,2000,Steven Soderbergh,Traffic,True
+,2000,Stephen Daldry,Billy Elliot,False
+tt0190332,2000,Ang Lee,"Crouching Tiger, Hidden Dragon",False
+tt0172495,2000,Ridley Scott,Gladiator,False
+tt0195685,2000,Steven Soderbergh,Erin Brockovich,False
+tt0268978,2001,Ron Howard,A Beautiful Mind,True
+tt0280707,2001,Robert Altman,Gosford Park,False
+tt0120737,2001,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,False
+,2001,David Lynch,Mulholland Drive,False
+,2001,Ridley Scott,Black Hawk Down,False
+tt0253474,2002,Roman Polanski,The Pianist,True
+,2002,Pedro Almodovar,Talk to Her,False
+tt0274558,2002,Stephen Daldry,The Hours,False
+tt0299658,2002,Rob Marshall,Chicago,False
+tt0217505,2002,Martin Scorsese,Gangs of New York,False
+tt0167260,2003,Peter Jackson,The Lord of the Rings: The Return of the King,True
+tt0335266,2003,Sofia Coppola,Lost in Translation,False
+tt0327056,2003,Clint Eastwood,Mystic River,False
+,2003,Fernando Meirelles,City of God,False
+tt0311113,2003,Peter Weir,Master and Commander: The Far Side of the World,False
+tt0405159,2004,Clint Eastwood,Million Dollar Baby,True
+tt0350258,2004,Taylor Hackford,Ray,False
+,2004,Mike Leigh,Vera Drake,False
+tt0375063,2004,Alexander Payne,Sideways,False
+tt0338751,2004,Martin Scorsese,The Aviator,False
+tt0388795,2005,Ang Lee,Brokeback Mountain,True
+,2005,George Clooney,"Good Night, and Good Luck",False
+,2005,Paul Haggis,Crash,False
+tt0379725,2005,Bennett Miller,Capote,False
+tt0408306,2005,Steven Spielberg,Munich,False
+tt0407887,2006,Martin Scorsese,The Departed,True
+tt0498380,2006,Clint Eastwood,Letters from Iwo Jima,False
+tt0436697,2006,Stephen Frears,The Queen,False
+,2006,Paul Greengrass,United 93,False
+tt0449467,2006,Alejandro Gonzalez Inarritu,Babel,False
+tt0477348,2007,Joel Coen,No Country for Old Men,True
+tt0477348,2007,Ethan Coen,No Country for Old Men,True
+tt0469494,2007,Paul Thomas Anderson,There Will Be Blood,False
+tt0465538,2007,Tony Gilroy,Michael Clayton,False
+tt0467406,2007,Jason Reitman,Juno,False
+,2007,Julian Schnabel,The Diving Bell and the Butterfly,False
+tt1010048,2008,Danny Boyle,Slumdog Millionaire,True
+tt0976051,2008,Stephen Daldry,The Reader,False
+tt0421715,2008,David Fincher,The Curious Case of Benjamin Button,False
+tt0870111,2008,Ron Howard,Frost/Nixon,False
+tt1013753,2008,Gus Van Sant,Milk,False
+,2009,Kathryn Bigelow,The Hurt Locker,True
+tt0499549,2009,James Cameron,Avatar,False
+tt0929632,2009,Lee Daniels,Precious,False
+tt1193138,2009,Jason Reitman,Up in the Air,False
+tt0361748,2009,Quentin Tarantino,Inglourious Basterds,False
+tt1504320,2010,Tom Hooper,The King's Speech,True
+tt0947798,2010,Darren Aronofsky,Black Swan,False
+tt1403865,2010,Joel Coen,True Grit,False
+tt1403865,2010,Ethan Coen,True Grit,False
+tt1285016,2010,David Fincher,The Social Network,False
+tt0964517,2010,David O. Russell,The Fighter,False
+tt1655442,2011,Michel Hazanavicius,The Artist,True
+tt1605783,2011,Woody Allen,Midnight in Paris,False
+tt0478304,2011,Terrence Malick,The Tree of Life,False
+tt1033575,2011,Alexander Payne,The Descendants,False
+tt0970179,2011,Martin Scorsese,Hugo,False
+tt0454876,2012,Ang Lee,Life of Pi,True
+tt1602620,2012,Michael Haneke,Amour,False
+tt1045658,2012,David O. Russell,Silver Linings Playbook,False
+tt0443272,2012,Steven Spielberg,Lincoln,False
+tt2125435,2012,Benh Zeitlin,Beasts of the Southern Wild,False
+tt1454468,2013,Alfonso Cuaron,Gravity,True
+tt2024544,2013,Steve McQueen,12 Years a Slave,False
+tt1821549,2013,Alexander Payne,Nebraska,False
+tt1800241,2013,David O. Russell,American Hustle,False
+tt0993846,2013,Martin Scorsese,The Wolf of Wall Street,False
+,2014,Alejandro G. Inarritu,Birdman,True
+tt2278388,2014,Wes Anderson,The Grand Budapest Hotel,False
+tt1065073,2014,Richard Linklater,Boyhood,False
+,2014,Bennett Miller,Foxcatcher,False
+tt2084970,2014,Morten Tyldum,The Imitation Game,False
+tt1663202,2015,Alejandro G. Inarittu,The Revenant,True
+tt3170832,2015,Lenny Abrahamson,Room,False
+tt1895587,2015,Tom McCarthy,Spotlight,False
+tt1596363,2015,Adam McKay,The Big Short,False
+tt1392190,2015,George Miller,Mad Max: Fury Road,False
+tt3783958,2016,Damien Chazelle,La La Land,True
+tt2119532,2016,Mel Gibson,Hacksaw Ridge,False
+tt4975722,2016,Barry Jenkins,Moonlight,False
+tt4034228,2016,Kenneth Lonergan,Manchester by the Sea,False
+tt2543164,2016,Denis Villeneuve,Arrival,False
+tt5580390,2017,Guillermo del Toro,The Shape of Water,True
+,2017,Paul Thomas Anderson,Phantom Thread,False
+tt4925292,2017,Greta Gerwig,Lady Bird,False
+tt5013056,2017,Christopher Nolan,Dunkirk,False
+tt5052448,2017,Jordan Peele,Get Out,False
+tt6155172,2018,Alfonso Cuaron,Roma,True
+tt5083738,2018,Yorgos Lanthimos,The Favourite,False
+tt7349662,2018,Spike Lee,BlacKkKlansman,False
+tt6266538,2018,Adam McKay,Vice,False
+,2018,Pawel Pawlikowski,Cold War,False
+tt6751668,2019,Bong Joon-ho,Parasite,True
+tt8579674,2019,Sam Mendes,1917,False
+tt7286456,2019,Todd Phillips,Joker,False
+tt1302006,2019,Martin Scorsese,The Irishman,False
+,2019,Quentin Tarantino,Once Upon a Time in Hollywood,False
+tt9770150,2020,Chloe Zhao,Nomadland,True
+tt10633456,2020,Lee Isaac Chung,Minari,False
+tt9620292,2020,Emerald Fennell,Promising Young Woman,False
+tt10618286,2020,David Fincher,Mank,False
+,2020,Thomas Vinterberg,Another Round,False
+,2021,Jane Campion,The Power of the Dog,True
+tt11271038,2021,Paul Thomas Anderson,Licorice Pizza,False
+tt12789558,2021,Kenneth Branagh,Belfast,False
+tt14039582,2021,Ryusuke Hamaguchi,Drive My Car,False
+tt3581652,2021,Steven Spielberg,West Side Story,False
+tt6710474,2022,Daniel Kwan,Everything Everywhere All at Once,True
+tt6710474,2022,Daniel Scheinert,Everything Everywhere All at Once,True
+tt14444726,2022,Todd Field,Tar,False
+tt11813216,2022,Martin McDonagh,The Banshees of Inisherin,False
+tt7322224,2022,Ruben Ostlund,Triangle of Sadness,False
+,2022,Steven Spielberg,The Fabelmans,False
+tt15398776,2023,Christopher Nolan,Oppenheimer,True
+tt7160372,2023,Jonathan Glazer,The Zone of Interest,False
+tt14230458,2023,Yorgos Lanthimos,Poor Things,False
+tt5537002,2023,Martin Scorsese,Killers of the Flower Moon,False
+tt17009710,2023,Justine Triet,Anatomy of a Fall,False
+tt28607951,2024,Sean Baker,Anora,True
+tt20221436,2024,Jacques Audiard,Emilia Perez,False
+tt8999762,2024,Brady Corbet,The Brutalist,False
+tt17526714,2024,Coralie Fargeat,The Substance,False
+tt11563598,2024,James Mangold,A Complete Unknown,False
